@@ -21,6 +21,10 @@ DAX (Data Analysis Expressions): Used for	KPI calculated measures, dynamic visua
 Data Modeling:	Relationship establishment among tables to enable cross-filtering and aggregation.
 File Format: Developed using Microsoft Power BI and packaged as a .pbit Power BI Template file.
 
+DATA SOURCE:
+This dashboard was developed as a learning-based Power BI implementation with guidance from a YouTube tutorial.
+Referrence: https://www.youtube.com/watch?v=8XoDVwWdaqI&t=7336s
+
 FEATURES:
 -Comparative week-over-week performance analysis
 -Revenue analysis by card category and expense type
@@ -42,4 +46,5 @@ BUSINESS IMPACT & INSIGHTS:
 
 DEMOS:
 https://github.com/salonigupta1602-eng/CREDIT-CARD-FINANCIAL-DASHBOARD/blob/main/CREDIT_CARD_REPORT-TRANSACTION.png
+https://github.com/salonigupta1602-eng/CREDIT-CARD-FINANCIAL-DASHBOARD/blob/main/CREDIT_CARD_REPORT-%20CUSTOMER.png
 
